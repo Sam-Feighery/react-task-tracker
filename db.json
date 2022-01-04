@@ -1,16 +1,10 @@
 {
   "tasks": [
     {
-      "text": "Call Ciara",
-      "day": "Tonight?",
+      "text": "Hello React",
+      "day": "Now",
       "reminder": false,
-      "id": 2
-    },
-    {
-      "text": "Ask Lucy how she is doing?",
-      "day": "Tonight",
-      "reminder": true,
-      "id": 3
+      "id": 1
     }
   ]
 }
